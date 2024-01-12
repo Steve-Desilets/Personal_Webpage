@@ -391,13 +391,6 @@ Consultant – Centers for Medicare and Medicaid Services Program Management Off
     #   emailCaption: "Enter your email address"
     #   messageCaption: "Enter your message here"
 
-  footer:
-    recentPosts:
-      path: "blogs"
-      count: 3
-      title: Recent Posts
-      enable: true
-      disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/Steve-Desilets
       linkedin: https://www.linkedin.com/in/steve-desilets-424823a3/

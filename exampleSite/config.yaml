@@ -328,9 +328,6 @@ Consultant – Centers for Medicare and Medicaid Services Program Management Off
       - title: NLP Chatbots
         content: Five interactive chatbots constructed using Natural Lanuage Processing (NLP) methods in Python to educate users about coral reef fish.
         image: /images/projects/clownfish.png
-        featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
         badges:
           - "Python"
           - "NLP"
@@ -339,18 +336,17 @@ Consultant – Centers for Medicare and Medicaid Services Program Management Off
           - icon: fab fa-github
             url: https://github.com/Steve-Desilets/Natural_Language_Processing/tree/main/Chatbot%20Final%20Project%20Assignment
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
+      - title: Image-Based Generative AI Model
+        content: Ten Auxiliary Classifier Generative Adversarial Network (AC-GAN) models trained to generate images of articles of clothing.
+        image: /images/projects/fashion.png
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "Python"
+          - "Generative AI"
+          - "Keras"
+          - "Tensorflow"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/Steve-Desilets/AI_And_Deep_Learning/tree/main/Deep%20Generative%20Learning
 
       - title: Hugo Profile V2
         content: A clean and simple Hugo template for personal portfolio and blog.

@@ -353,8 +353,9 @@ Consultant – Centers for Medicare and Medicaid Services Program Management Off
         image: /images/projects/feature_importances.png
         badges:
           - "Random Forest"
-          - "Gradient Boosted Trees"
+          - "XGBoost"
           - "Extra Trees"
+          - "Python"
         links:
           - icon: fab fa-github
             url: https://github.com/Steve-Desilets/Machine-Learning/tree/main/Assignment%205%20-%20Random%20Forest%20-%20Gradient%20Boosted%20Trees%20-%20Extra%20Trees%20Using%20Kaggle%20Titanic%20Data

@@ -122,7 +122,7 @@ params:
     title: "Steve Desilets."
     subtitle: "I am a data scientist."
     content: "I am passionate about building transformative models and tools that empower leaders to make data-driven decisions."
-    image: /images/hero.png
+    image: /images/hero.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false

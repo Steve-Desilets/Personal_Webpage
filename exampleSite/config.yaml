@@ -124,7 +124,7 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Steve."
+    title: "Steve Desilets."
     subtitle: "I build things for the web"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
     image: /images/hero.svg
@@ -153,9 +153,7 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
-
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I am a data scientist who has dedicated his academic and professional career to developing data-driven solutions leveraging Python, R, SAS, SQL, Excel, and ServiceNow. I am currently a student enrolled in Northwestern University’s MS in Data Science Program, pursuing a concentration in artificial intelligence. I worked as a Senior Consultant in Deloitte Consulting’s Federal Practice, where I led federal government programs with a focus on Agile IT Transformation, financial management, and program management. I also previously worked as a Statistical Analyst for comScore, where I managed and developed big data products using SAS, SQL, and R. Prior to this industry experience, I attended Duke University, where I double majored in Statistics and Economics and served as a Teaching Assistant in the Duke Statistical Science Department. If interested, feel free to check out my academic / coding portfolio on Github: https://github.com/Steve-Desilets
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"

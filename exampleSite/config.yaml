@@ -317,6 +317,7 @@ params:
         image: /images/Deloitte_v2.png
       - title: Scuba Diving Certification
         content: Obtained Open Water scuba diving certification from the Professional Association of Diving Instructors (PADI).
+        url: https://www.padi.com/courses/open-water-diver?gad_source=1&gclid=CjwKCAiA44OtBhAOEiwAj4gpObo9_m1AtV3mBoWsgDSOBGT2lY2oljvLRE6TxDvjSPJFuEEuUZb47RoCkRIQAvD_BwE
         image: /images/Scuba_unedited.png
       - title: US Government Public Trust
         content: Granted Public Trust cleararance by a US federal government agency between August 2020 - September 2022.

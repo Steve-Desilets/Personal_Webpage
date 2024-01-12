@@ -203,8 +203,8 @@ Consultant – Centers for Medicare and Medicaid Services Program Management Off
 
       - job: "Statistical Analyst"
         company: "comScore"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+        companyUrl: "https://www.comscore.com/"
+        date: "July 2015 - May 2018"
         featuredLink:
           enable: false
           url: "https://example.com"
@@ -217,10 +217,10 @@ Consultant – Centers for Medicare and Medicaid Services Program Management Off
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+      - job: "Statistics Teaching Assistant"
+        company: "Duke Statistics Department"
+        companyUrl: "https://stat.duke.edu/"
+        date: "January 2014 - May 2015"
         info:
           enable: false
         featuredLink:
@@ -232,10 +232,10 @@ Consultant – Centers for Medicare and Medicaid Services Program Management Off
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
+      - job: "Data Analyst Intern"
+        company: "Duke Forward"
+        companyUrl: "https://impact-2015.dukeforward.duke.edu/"
+        date: "September 2013 - April 2015"
         featuredLink:
           enable: false
           url: "https://example.com"

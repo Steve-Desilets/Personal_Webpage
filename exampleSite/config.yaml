@@ -292,7 +292,16 @@ Consultant – Centers for Medicare and Medicaid Services Program Management Off
         school:
           name: "Duke University"
           url: "https://stat.duke.edu/"
+        date: "August 2011 - May 2015"
         GPA: "3.6 out of 4.0"
+                content: |-
+          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
+          - Face mask detection using a single convolutional neural network.
+
+          Extracurricular Activities
+            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
         featuredLink:
           enable: false
           url: "https://example.com"
@@ -390,9 +399,9 @@ Consultant – Centers for Medicare and Medicaid Services Program Management Off
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      instagram: https://instagram.com
+      github: https://github.com/Steve-Desilets
+      linkedin: https://www.linkedin.com/in/steve-desilets-424823a3/
+      instagram: https://www.instagram.com/stevejustfan/
 
   # List pages like blogs and posts
   listPages:

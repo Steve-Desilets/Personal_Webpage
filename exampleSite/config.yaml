@@ -294,7 +294,7 @@ Consultant – Centers for Medicare and Medicaid Services Program Management Off
           url: "https://stat.duke.edu/"
         date: "August 2011 - May 2015"
         GPA: "3.6 out of 4.0"
-                content: |-
+        content: |-
           I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
           - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
           - Face mask detection using a single convolutional neural network.

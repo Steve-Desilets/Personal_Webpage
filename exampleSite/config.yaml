@@ -268,13 +268,7 @@ Consultant – Centers for Medicare and Medicaid Services Program Management Off
         date: "August 2011 - May 2015"
         GPA: "3.6 out of 4.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+           Studied and applied economics, econometrics, finance, and accounting using Stata and Excel
         featuredLink:
           enable: false
           name: "My academic record"
@@ -286,13 +280,7 @@ Consultant – Centers for Medicare and Medicaid Services Program Management Off
         date: "August 2011 - May 2015"
         GPA: "3.6 out of 4.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          Studied and applied statistics, computer science, probability, calculus, and linear algebra using R, Python, JMP, Maple, and Excel
         featuredLink:
           enable: false
           url: "https://example.com"

@@ -259,9 +259,8 @@ Consultant – Centers for Medicare and Medicaid Services Program Management Off
         date: "September 2022 - Present"
         GPA: "4.0 out of 4.0"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          Studying and applying machine learning, natural language processing, data engineering, database design, deep learning, decision analytics, and statistics using Python, R, SQL, Cypher, Elasticsearch, Excel, and Go
+
       - title: "Bachelor of Science in Economics"
         school:
           name: "Duke University"
@@ -312,7 +311,7 @@ Consultant – Centers for Medicare and Medicaid Services Program Management Off
         url: https://www.soa.org/education/exam-req/edu-exam-fm-detail/
         image: /images/achievment.jpg
       - title: Deloitte GSAP Award
-        content: Awarded for high performance with acceptance into Deloitte Consulting's Graduate School Assistance Program (GSAP)
+        content: Awarded for high performance with acceptance into Deloitte Consulting's Graduate School Assistance Program (GSAP).
         url: https://www2.deloitte.com/us/en/pages/careers/articles/join-deloitte-graduate-school-assistance-program.html
         image: /images/achievment.jpg
       - title: Scuba Diving Certification
@@ -337,7 +336,7 @@ Consultant – Centers for Medicare and Medicaid Services Program Management Off
           - icon: fab fa-github
             url: https://github.com/Steve-Desilets/Natural_Language_Processing/tree/main/Chatbot%20Final%20Project%20Assignment
 
-      - title: Image-Based Generative AI Model
+      - title: Image-Based Generative AI Models
         content: Ten Auxiliary Classifier Generative Adversarial Network (AC-GAN) models trained to generate images of articles of clothing.
         image: /images/projects/fashion.png
         badges:

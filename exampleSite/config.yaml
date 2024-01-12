@@ -129,7 +129,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "https://github.com/Steve-Desilets/Personal_Webpage/blob/main/CV%20-%20Steve%20Desilets.pdf"
       download: true
       newPage: false
     socialLinks:

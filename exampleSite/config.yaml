@@ -22,8 +22,8 @@ markup:
     renderer:
       unsafe: true
 
-Menus:
-  main:
+#Menus:
+#  main:
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu

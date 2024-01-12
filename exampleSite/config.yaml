@@ -221,10 +221,10 @@ Consultant – Centers for Medicare and Medicaid Services Program Management Off
           enable: false
           content: I worked as a software developer for more than one year in Amazon.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Managed nine big data products generated via over 10,000 lines of SAS, SQL, and R code
+          - Balanced millions of panel participants to accurately reflect the demographic distributions of global online population sizes via the Random Iterative Method (RIM) of weighting 
+          - Expanded comScore’s suite of products available by designing and automating a custom RIM weights model 
+          - Enhanced the team’s main SAS program to run 60% more quickly. This innovation saved 48 hours per year
 
       - job: "Statistics Teaching Assistant"
         company: "Duke Statistics Department"

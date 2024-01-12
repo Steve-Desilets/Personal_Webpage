@@ -125,7 +125,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Steve Desilets."
-    subtitle: "I build things for the web"
+    subtitle: "I am a data scientist."
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
     image: /images/hero.svg
     bottomImage:
@@ -154,6 +154,7 @@ params:
     image: "/images/me.png"
     content: |-
       I am a data scientist who has dedicated his academic and professional career to developing data-driven solutions leveraging Python, R, SAS, SQL, Excel, and ServiceNow. I am currently a student enrolled in Northwestern University’s MS in Data Science Program, pursuing a concentration in artificial intelligence. I worked as a Senior Consultant in Deloitte Consulting’s Federal Practice, where I led federal government programs with a focus on Agile IT Transformation, financial management, and program management. I also previously worked as a Statistical Analyst for comScore, where I managed and developed big data products using SAS, SQL, and R. Prior to this industry experience, I attended Duke University, where I double majored in Statistics and Economics and served as a Teaching Assistant in the Duke Statistical Science Department. If interested, feel free to check out my academic / coding portfolio on Github: https://github.com/Steve-Desilets
+
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -170,15 +171,16 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "Senior Consultant"
+        company: "Deloitte Consulting"
+        companyUrl: "https://www2.deloitte.com/us/en.html"
+        date: "June 2018 - September 2022"
         featuredLink:
-          enable: true
+          enable: false
           name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: "•	Coordinated with over 100 client stakeholders and led a functional team in the Scaled Agile Framework (SAFe) design, development, testing, and release of the new IT Onboarding Tool in ServiceNow for USAID
+•	Reduced the onboarding cycle time by 58% for over 300 USAID new hires per year"
 
       - job: "Software Developer"
         company: "Amazon"

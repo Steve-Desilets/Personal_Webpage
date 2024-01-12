@@ -222,10 +222,8 @@ Consultant – Centers for Medicare and Medicaid Services Program Management Off
           enable: false
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Taught 100 students how to apply statistics and probability using JMP and R in weekly labs, lectures, and office hours
+          - Graded exams, final research projects, and homework for students in a timely fashion
 
       - job: "Data Analyst Intern"
         company: "Duke Forward"
@@ -244,7 +242,6 @@ Consultant – Centers for Medicare and Medicaid Services Program Management Off
         company: "Covenant House"
         companyUrl: "https://www.covenanthousenola.org/"
         date: "June 2014 - August 2014"
-        location: "New Orelans, LA"
         content: "Constructed the $4 million annual budget for the CFO to present to the Board of Directors of this nonprofit that provides housing, medical care, and job training to young adults aging out of the foster care system"
 
   # Education

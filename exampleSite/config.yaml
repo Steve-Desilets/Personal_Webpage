@@ -150,15 +150,27 @@ params:
 
     skills:
       enable: true
-      title: "
+      title: " 
       Here are some of my skills:"
       items:
+        - "Agile Project Management"
+        - "Camtasia"
+        - "Elasticsearch"
+        - "Go"
+        - "JMP"
+        - "LaTeX"
+        - "Maple"
+        - "Microsoft Office"
+        - "Neo4j"
         - "Python"
         - "R"
-        - "Go"
-        - "SQL"
         - "SAS"
+        - "Scaled Agile Framework"
         - "ServiceNow"
+        - "SEMOSS"
+        - "SQL"
+        - "Stata"
+        - "Tableau"
 
   # Experience
   experience:

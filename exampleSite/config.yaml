@@ -352,7 +352,6 @@ Consultant – Centers for Medicare and Medicaid Services Program Management Off
         content: Extra Trees, and Gradient Boosted Trees, and Random Forest Models constructed in Python to predict which passengers aboard the Titanic survived
         image: /images/projects/feature_importances.png
         badges:
-          - "Python"
           - "Random Forest"
           - "Gradient Boosted Trees"
           - "Extra Trees"

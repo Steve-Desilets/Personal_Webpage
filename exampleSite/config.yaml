@@ -305,20 +305,22 @@ Consultant – Centers for Medicare and Medicaid Services Program Management Off
       - title: SOA Probability Exam
         content: Passed the Society of Actuaries (SOA) Probability Exam.
         url: https://www.soa.org/education/exam-req/edu-exam-p-detail.aspx
-        image: /images/achievment.jpg
+        image: /images/SOA_unedited.png
       - title: SOA Financial Mathematics Exam
         content: Passed the Society of Actuaries (SOA) Financial Mathematics Exam.
         url: https://www.soa.org/education/exam-req/edu-exam-fm-detail/
-        image: /images/achievment.jpg
+        image: /images/SOA_unedited.png
       - title: Deloitte GSAP Award
         content: Awarded for high performance with acceptance into Deloitte Consulting's Graduate School Assistance Program (GSAP).
         url: https://www2.deloitte.com/us/en/pages/careers/articles/join-deloitte-graduate-school-assistance-program.html
-        image: /images/achievment.jpg
+        image: /images/Deloitte_unedited.png
       - title: Scuba Diving Certification
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
+        content: Obtained Open Water scuba diving certification from the Professional Association of Diving Instructors (PADI).
+        image: /images/Scuba_unedited.png
+      - title: US Government Public Trust
+        content: Granted Public Trust cleararance by a US federal government agency between 2020 - 2022.
+        url: https://www.state.gov/security-clearances
+        image: /images/Flag_unedited.png
 
   # projects
   projects:

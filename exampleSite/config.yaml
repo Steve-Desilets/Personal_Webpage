@@ -327,6 +327,10 @@ params:
         content: Granted Public Trust cleararance by a US federal government agency between August 2020 - September 2022.
         url: https://www.state.gov/security-clearances
         image: /images/Flag_v3.png
+        - title: Agile Conference
+        content: Attended a two-day Agile Software Development Boot Camp 
+        url: https://www2.deloitte.com/cz/en/pages/risk/solutions/agile-training.html
+        image: /images/Agile_unedited.png
 
   # projects
   projects:

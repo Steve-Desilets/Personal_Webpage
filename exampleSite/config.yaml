@@ -348,19 +348,17 @@ Consultant – Centers for Medicare and Medicaid Services Program Management Off
           - icon: fab fa-github
             url: https://github.com/Steve-Desilets/AI_And_Deep_Learning/tree/main/Deep%20Generative%20Learning
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+      - title: Titanic Survival Analysis with Tree-Based Methods
+        content: Extra Trees, and Gradient Boosted Trees, and Random Forest Models constructed in Python to predict which passengers aboard the Titanic survived
+        image: /images/projects/feature_importances.png
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "Python"
+          - "Random Forest"
+          - "Gradient Boosted Trees"
+          - "Extra Trees"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+            url: https://github.com/Steve-Desilets/Machine-Learning/tree/main/Assignment%205%20-%20Random%20Forest%20-%20Gradient%20Boosted%20Trees%20-%20Extra%20Trees%20Using%20Kaggle%20Titanic%20Data
 
   #Contact
   contact:

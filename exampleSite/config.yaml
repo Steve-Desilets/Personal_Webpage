@@ -149,8 +149,8 @@ params:
        
     skills:
       enable: true
-      title: " 
-      Here are some of my skills:"
+      title: >
+      "Here are some of my skills:"
       items:
         - "Agile Methodology"
         - "Python"

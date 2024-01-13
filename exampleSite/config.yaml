@@ -257,7 +257,8 @@ params:
         featuredLink:
           enable: false
           url: "https://example.com"
-        content: "Constructed the $4 million annual budget for the CFO to present to the Board of Directors of this nonprofit that provides housing, medical care, and job training to young adults aging out of the foster care system"
+        content: | 
+          - Constructed the $4 million annual budget for the CFO to present to the Board of Directors of this nonprofit that provides housing, medical care, and job training to young adults aging out of the foster care system"
 
   # Education
   education:

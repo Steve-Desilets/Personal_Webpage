@@ -140,7 +140,7 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a data scientist who has dedicated his academic and professional career to developing data-driven solutions leveraging Python, R, SAS, SQL, Excel, and ServiceNow. I am currently a student enrolled in Northwestern University’s MS in Data Science Program, pursuing a concentration in artificial intelligence. I worked as a Senior Consultant in Deloitte Consulting’s Federal Practice, where I led federal government programs with a focus on Agile IT Transformation, financial management, and program management. I also previously worked as a Statistical Analyst for comScore, where I managed and developed big data products using SAS, SQL, and R. Prior to this industry experience, I attended Duke University, where I double majored in Statistics and Economics. 
+      I am a data scientist who has dedicated his academic and professional career to developing data-driven solutions. I am currently a student enrolled in Northwestern University’s MS in Data Science Program, pursuing a concentration in artificial intelligence. I worked as a Senior Consultant in Deloitte Consulting’s Federal Practice, where I led federal government programs with a focus on Agile IT Transformation, financial management, and program management. I also previously worked as a Statistical Analyst for comScore, where I managed and developed big data products. Prior to this industry experience, I attended Duke University, where I double majored in Statistics and Economics. 
        
     skills:
       enable: true

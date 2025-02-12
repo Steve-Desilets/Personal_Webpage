@@ -173,7 +173,7 @@ params:
       - job: "Senior Consultant"
         company: "Deloitte Consulting"
         companyUrl: "https://www2.deloitte.com/us/en.html"
-        date: "June 2018 - September 2022"
+        date: "June 2018 - Present"
         info:
           enable: false
         featuredLink:

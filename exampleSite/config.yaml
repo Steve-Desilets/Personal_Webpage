@@ -147,6 +147,7 @@ params:
       title: "Here are some of my skills that I've gained through these experiences:"
       items:
         - "Agile Methodology"
+        - "Azure"
         - "Python"
         - "Camtasia"
         - "R"

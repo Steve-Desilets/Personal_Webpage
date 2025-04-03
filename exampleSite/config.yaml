@@ -147,24 +147,25 @@ params:
       title: "Here are some of my skills that I've gained through these experiences:"
       items:
         - "Agile Methodology"
-        - "Python"
+        - "Power BI"
         - "Amazon Web Services (AWS)"
-        - "R"
+        - "Python"
         - "Azure"
-        - "SAS"
+        - "R"
         - "Camtasia"
-        - "Scaled Agile Framework"
+        - "SAS"
         - "Elasticsearch"
-        - "ServiceNow"
+        - "Scaled Agile Framework"
         - "Go"
-        - "SEMOSS"
+        - "ServiceNow"
         - "JMP"
-        - "SQL"
+        - "SEMOSS"
         - "LaTeX"
-        - "Stata"
+        - "SQL"
         - "Maple"
-        - "Tableau"
+        - "Stata"
         - "Microsoft Office"
+        - "Tableau"
         - "Neo4j"
 
   # Experience
@@ -175,7 +176,7 @@ params:
       - job: "Senior Consultant"
         company: "Deloitte Consulting"
         companyUrl: "https://www2.deloitte.com/us/en.html"
-        date: "June 2018 - Present"
+        date: "June 2018 - September 2022 and February 2024 - Present"
         info:
           enable: false
         featuredLink:
@@ -203,7 +204,7 @@ params:
 
           Proposal Pricing Lead and Writer – Deloitte Proposal Teams \n	
             - Served as the Pricing Lead for three proposals valued at $5 billion by creating financial models and reports \n
-            - Wrote about how Deloitte’s expertise positioned the firm to meet clients’ needs in six proposals \n
+            - Wrote about how Deloitte’s expertise positioned the firm to meet clients’ needs in eight proposals \n
 
           Consultant – Centers for Medicare and Medicaid Services Program Management Office \n	
             - Managed the finances for a $30 million program focused on improving the quality of care in nursing homes"

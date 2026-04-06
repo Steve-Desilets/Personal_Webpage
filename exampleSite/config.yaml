@@ -184,9 +184,9 @@ params:
           name: "View the project"
           url: "https://example.com"
         content: 
-          "Senior Consultant – Department of Veterans Affairs - Managerial Cost Accounting Office Transformation	\n
+          "Senior Consultant – Department of Veterans Affairs - Managerial Cost Accounting Office Modernizatoin	\n
             - Served as the lead data scientist for a financial transformation program focused on improving the accuracy, transparency, and utility of the VA’s cost accounting information, supporting decision-making processes within the VA, and enhancing the quality of care provided to veterans \n
-            - Leveraged SQL, Python, and Power BI to construct a data pipeline that modernizes the VA’s methodology for aligning all its costs to medical procedures and that provided the structural foundation for interactive Power BI dashboards designed to empower VA decision-makers \n
+            - Leveraged SQL, Python, Databricks and Power BI to construct a data pipeline that modernizes the VA’s methodology for aligning all its costs to medical procedures and that provided the structural foundation for interactive Power BI dashboards designed to empower VA decision-makers \n
           
           Senior Consultant – USAID Onboarding Redesign Team	\n
             - Coordinated with over 100 client stakeholders and led a functional team in the Scaled Agile Framework (SAFe) design, development, testing, and release of the new IT Onboarding Tool in ServiceNow for USAID \n

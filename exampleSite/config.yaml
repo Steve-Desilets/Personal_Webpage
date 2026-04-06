@@ -154,7 +154,7 @@ params:
         - "R"
         - "Camtasia"
         - "SAS"
-        = "Databricks"
+        - "Databricks"
         - "Scaled Agile Framework"
         - "Elasticsearch"
         - "ServiceNow"

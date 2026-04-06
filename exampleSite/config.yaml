@@ -312,9 +312,9 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: SOA Probability Exam
-        content: Passed the Society of Actuaries (SOA) Probability Exam.
-        url: https://www.soa.org/education/exam-req/edu-exam-p-detail.aspx
+      - title: SOA Exams
+        content: Passed the Society of Actuaries (SOA) Probability Exam and Financial Mathematics Exam.
+        url: https://www.soa.org/education/overview/
         image: /images/SOA_unedited.png
       - title: SOA Financial Mathematics Exam
         content: Passed the Society of Actuaries (SOA) Financial Mathematics Exam.
